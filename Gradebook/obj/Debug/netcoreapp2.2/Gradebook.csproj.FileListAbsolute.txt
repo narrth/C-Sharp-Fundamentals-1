@@ -1,0 +1,11 @@
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.deps.json
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.json
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.dev.json
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.pdb
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csprojAssemblyReference.cache
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfoInputs.cache
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfo.cs
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\Narrthoo\Documents\Intro to C# with Pluralsight\Gradebook\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.pdb
